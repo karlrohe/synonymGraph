@@ -1,3 +1,0 @@
-# synonymGraph
-
-run make_subgraph.R in R to create some cool synonym subgraphs.  I need a link to a twitter thread for more background...

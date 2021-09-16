@@ -1,0 +1,13 @@
+---
+title: "MyHomework"
+author: "Karl Rohe"
+date: "9/16/2021"
+output: github_document
+---
+
+
+This plot is just for fun:
+
+```{r}
+hist(rnorm(10))
+```
